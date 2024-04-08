@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+.page3{
+    background-color: #112C41;
+    color:#FFFFFF;
+}
+
+.heading2{
+    color:#F36F2B;
+}
+
+#head{
+    height: 505px;
+    width: 180px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 64;
+}
+
+#para{
+    height: 734px;
+    width: 556px;
+    color: #FFFFFF;
+
+}
+
