@@ -1,6 +1,5 @@
 import React from "react";
-import './Page8.css';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import './Page8.css'
 
 function Page8() {
   return (
@@ -10,6 +9,17 @@ function Page8() {
           <div class="row">
             <div class="col-md-2 footer-column">
               <img src="./Group 1484.png" alt="Image1" />
+              <ul>
+                <li>
+                  <i class="icon">Icon</i> Item 1
+                </li>
+                <li>
+                  <i class="icon">Icon</i> Item 2
+                </li>
+                <li>
+                  <i class="icon">Icon</i> Item 3
+                </li>
+              </ul>
             </div>
             <div class="col-md-2 footer-column">
               <h5>Expertise</h5>

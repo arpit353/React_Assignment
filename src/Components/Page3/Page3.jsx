@@ -11,7 +11,7 @@ function Page3() {
             <h4 className="heading2">diversity & inclusion</h4>
           </div>
           <div className="col" id="para">
-            <p>
+            <p className="para_color">
               At CaSE we do not just accept difference — we celebrate it, we
               support it, and we thrive on it for the benefit of our employees,
               our services, our industry and our community. We are proud to be
@@ -20,7 +20,7 @@ function Page3() {
               because of their differences, not in spite of them.
             </p>
             <br></br>
-            <p>
+            <p className="para_color">
               Our values and beliefs, we foster an inclusive workplace culture
               where employees thrive because of their differences, not in spite
               of them Our Commitment to reinventing the standard. With more than
@@ -30,7 +30,7 @@ function Page3() {
               recognise, respect, and strive to create an environment where
               employees can excel and feel a true sense of belonging.
             </p>
-            <p>
+            <p className="para_color">
               <strong>Some of our strategic initiatives include:</strong>
             </p>
           </div>

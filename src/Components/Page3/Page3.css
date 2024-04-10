@@ -21,6 +21,10 @@
     height: 734px;
     width: 556px;
     color: #FFFFFF;
-
 }
 
+.para_color{
+    color: white;
+    font-weight: 200;
+    font-size: small;
+}
