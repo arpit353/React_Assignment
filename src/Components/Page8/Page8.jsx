@@ -9,15 +9,15 @@ function Page8() {
           <div class="row">
             <div class="col-md-2 footer-column">
               <img src="./Group 1484.png" alt="Image1" />
-              <ul>
+              <ul className="ul-image">
                 <li>
-                  <i class="icon">Icon</i> Item 1
+                  <img src="./facebook.png" alt="facebook" className="icons"/>
                 </li>
                 <li>
-                  <i class="icon">Icon</i> Item 2
+                <img src="./linkedin.png" alt="linkedin" className="icons"/>
                 </li>
                 <li>
-                  <i class="icon">Icon</i> Item 3
+                <img src="./instagram.png" alt="instagram" className="icons"/>
                 </li>
               </ul>
             </div>

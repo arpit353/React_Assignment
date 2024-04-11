@@ -25,10 +25,7 @@ function Page2() {
           </div>
           <div className="col-6">
             <img
-              src="./Rectangle 39.png"
-              alt="Image description"
-              style={{ height: "800px", width: "640px" }}
-            />
+              src="./Rectangle 39.png" alt="p" style={{ height: "800px", width: "640px" }}/>
           </div>
         </div>
       </div>

@@ -4,8 +4,8 @@ import "./Page3.css";
 function Page3() {
   return (
     <div className="page3">
-      <div className="container">
-        <div className="row">
+      <div className="container container-nomargin">
+        <div className="row container-margin">
           <div className="col" id="head">
             <h4 className="heading1">We believe in</h4>
             <h4 className="heading2">diversity & inclusion</h4>
@@ -30,14 +30,14 @@ function Page3() {
               recognise, respect, and strive to create an environment where
               employees can excel and feel a true sense of belonging.
             </p>
-            <p className="para_color">
-              <strong>Some of our strategic initiatives include:</strong>
+            <p className="para_color_strong">
+              <strong style={{size:"100px",color:"white"}}>Some of our strategic initiatives include:</strong>
             </p>
           </div>
         </div>
         <div className="row">
           <div className="col">
-
+          <img src="./Group 1593.png" alt="images" className="image3"/>
           </div>
         </div>
       </div>
