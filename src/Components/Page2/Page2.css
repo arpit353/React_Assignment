@@ -5,8 +5,22 @@
 .heading {
     font-size: 64px;
     font-family: "Oswald";
+    padding-top: 100px;
 }
 
 .page2-container {
     font-family: "Inter";
+}
+
+.small-heading {
+    font-family: "Inter";
+    font-size: 24px;
+    color: black;
+    margin-top: 50px;
+}
+
+.paragraph {
+    font-family: "Inter";
+    font-size: "18px";
+    
 }
