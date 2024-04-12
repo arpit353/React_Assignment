@@ -7,8 +7,7 @@ function Page3() {
       <div className="container container-nomargin">
         <div className="row container-margin">
           <div className="col" id="head">
-            <h4 className="heading1">We believe in</h4>
-            <h4 className="heading2">diversity & inclusion</h4>
+            <h4 className="heading1">We believe in <span className="heading2">diversity & inclusion</span></h4>
           </div>
           <div className="col" id="para">
             <p className="para_color">
@@ -35,7 +34,7 @@ function Page3() {
             </p>
           </div>
         </div>
-        <div className="row">
+        <div className="row row-format">
           <div className="col">
           <img src="./Group 1593.png" alt="images" className="image3"/>
           </div>
