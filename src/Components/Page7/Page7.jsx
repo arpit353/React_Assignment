@@ -6,7 +6,7 @@ function Page7() {
     <div>
       <div className="container container-items text-center">
         <h4>
-          As a <div className="color">global business</div>, we encourage you to contact us no matter where
+          As a <div className="color">global business</div>, we encourage you to contact us <br />no matter where
           you are located in the world.
         </h4>
         <h6>Browse our job opportunities across the globe.</h6>

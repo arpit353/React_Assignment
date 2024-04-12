@@ -6,7 +6,7 @@ function Page8() {
     <div>
       <footer class="footer">
         <div class="container">
-          <div class="row">
+          <div class="row row-footer">
             <div class="col-md-2 footer-column">
               <img src="./Group 1484.png" alt="Image1" className="logo" />
               <ul className="ul-image">

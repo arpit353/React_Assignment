@@ -25,7 +25,7 @@ function Page5() {
               is celebrated with the grandeur it deserves
             </p>
           </div>
-          <div class="col">
+          <div class="col page5-col">
             <img src="./Rectangle 29.png" className="img1" alt="img1" />
           </div>
         </div>

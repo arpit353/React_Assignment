@@ -1,3 +1,7 @@
 .nav-tab{
     color: white;
 }
+
+.ml-auto {
+    margin-left: auto !important;
+}
