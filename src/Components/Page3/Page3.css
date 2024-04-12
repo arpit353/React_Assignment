@@ -18,8 +18,8 @@
 }
 
 #para{
-    height: 734px;
-    width: 556px;
+    height: 400px;
+    width: 300px;
     color: #FFFFFF;
 }
 
@@ -31,6 +31,7 @@
 
 .image3{
     width: 1200px;
+    margin-top: 0px;
 }
 
 .container-margin{
@@ -42,3 +43,4 @@
    margin-left: 0px;
    margin-right: 0px;
 }
+
