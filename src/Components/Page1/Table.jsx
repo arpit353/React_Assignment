@@ -5,7 +5,7 @@ function Table() {
   return (
     <div>
       <table className="table table-dark table-borderless">
-        <tbody>
+        <tbody >
           <tr className="table-secondary">
             <td className="table-secondary table-background">01</td>
             <td className="table-secondary table-background">02</td>
