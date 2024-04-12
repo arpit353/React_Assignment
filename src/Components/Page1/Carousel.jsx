@@ -1,4 +1,5 @@
 import React from "react";
+import "./Carousel.css"
 
 function Carousel() {
   return (
@@ -15,10 +16,10 @@ function Carousel() {
               src="./Banner.png"
               alt="First slide"
             />
-            <div class="carousel-caption d-none d-md-block">
-              <h5>Home/Why work with us</h5>
-              <h1>Headline #1</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <div className="carousel-caption d-none d-md-block">
+              <h5 className="carousel-box headline">Home/Why work with us</h5>
+              <h1 className="carousel-box headline">Headline #1</h1>
+              <p className="carousel-box headline">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
           </div>
         </div>

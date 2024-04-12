@@ -1,12 +1,13 @@
 import React from "react";
+import "./Page2.css";
 
 function Page2() {
   return (
     <div>
-      <div className="container">
+      <div className="container page2-container">
         <div className="row">
-          <div className="col-6" style={{color:"#6B6B6B"}}>
-            <h3>We stay connected</h3>
+          <div className="col-6">
+            <h3 className="heading">We <span className="orange">stay connected</span></h3>
             <h6>Quarterly Business Updates</h6>
             <p>
               We strive to stay connected as a team through communication and

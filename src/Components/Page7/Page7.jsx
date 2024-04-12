@@ -4,7 +4,7 @@ import './Page7.css';
 function Page7() {
   return (
     <div>
-      <div className="container text-center">
+      <div className="container container-items text-center">
         <h4>
           As a <div className="color">global business</div>, we encourage you to contact us no matter where
           you are located in the world.
