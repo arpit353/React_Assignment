@@ -8,7 +8,7 @@ function Page8() {
         <div class="container">
           <div class="row">
             <div class="col-md-2 footer-column">
-              <img src="./Group 1484.png" alt="Image1" />
+              <img src="./Group 1484.png" alt="Image1" className="logo" />
               <ul className="ul-image">
                 <li>
                   <img src="./facebook.png" alt="facebook" className="icons"/>

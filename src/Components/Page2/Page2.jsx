@@ -21,8 +21,8 @@ function Page2() {
               ever-evolving engineering landscape, staying connected isn’t just
               a benefit—it’s essential.
             </p>
-            <h6>Industry Events & Networking</h6>
-            <h6>Associations Memberships</h6>
+            <h6 className="small_heading">Industry Events & Networking</h6>
+            <h6 className="small_heading">Associations Memberships</h6>
           </div>
           <div className="col-6">
             <img
