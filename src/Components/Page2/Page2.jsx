@@ -1,4 +1,5 @@
 import React from "react";
+import "./Page2.css"
 
 function Page2() {
   return (
@@ -6,8 +7,10 @@ function Page2() {
       <div className="container">
         <div className="row">
           <div className="col-6" style={{color:"#6B6B6B"}}>
-            <h3>We stay connected</h3>
-            <h6>Quarterly Business Updates</h6>
+            <div className="headings">
+            <h3 className="heading_1">We </h3> <h3 className="heading_2">stay connected</h3>
+            </div>
+            <h6 className="small_heading">Quarterly Business Updates</h6>
             <p>
               We strive to stay connected as a team through communication and
               collaboration. This materialises every quarter through our
@@ -20,8 +23,8 @@ function Page2() {
               ever-evolving engineering landscape, staying connected isn’t just
               a benefit—it’s essential.
             </p>
-            <h6>Industry Events & Networking</h6>
-            <h6>Associations Memberships</h6>
+            <h6 className="small_heading">Industry Events & Networking</h6>
+            <h6 className="small_heading">Associations Memberships</h6>
           </div>
           <div className="col-6">
             <img
